@@ -9,8 +9,6 @@ body {
   font-family: Fira Code;
   font-size: 0.75rem;
   color: #E05B56;
-  width: 80vw;
-  margin: 1rem auto;
   word-break: break-all;
 }
 
@@ -79,9 +77,6 @@ a {
   color: #3C95EF;
 }
 
-.toolbox {
-  display: none;
-}
 
 .status {
   background: #1E2227;
